@@ -4,7 +4,7 @@
   **Graduate Software Engineer** | Full-Stack • Cloud • Autonomous Robotics • IT Ops  
   Melbourne, Australia  
 
-  [LinkedIn](https://linkedin.com/in/aarush-singh-994010258) • [Portfolio](https://aarush700.github.io/aarush-portfolio/) • [Email](mailto:aarushsingh0059@gmail.com)
+  [LinkedIn](https://linkedin.com/in/aarush-singh-994010258) • [Portfolio](https://aarush-portfolio-psi.vercel.app/) • [Email](mailto:aarushsingh0059@gmail.com)
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarush700)
 </div>
