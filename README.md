@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Aarush Singh</h1>
-  
-  **Graduate Software Engineer** | Full-Stack • Cloud • Autonomous Robotics • IT Ops  
+
+  **Graduate Software Engineer** | Full-Stack • Cloud • Autonomous Robotics • Production Systems  
   Melbourne, Australia  
 
   [LinkedIn](https://linkedin.com/in/aarush-singh-994010258) • [Portfolio](https://aarush-portfolio-psi.vercel.app/) • [Email](mailto:aarushsingh0059@gmail.com)
@@ -13,9 +13,25 @@
 
 ### 🚀 About Me
 
-Software Engineering graduate from **Swinburne University of Technology** (First Class Honours) with real-world experience building production systems, resolving live technical incidents, and delivering reliable software.
+Software Engineering graduate from **Swinburne University of Technology** (First Class Honours) with experience building production systems, supporting live environments, and delivering end-to-end software solutions.
 
-Currently providing **IT field support** across Swinburne teaching spaces while actively seeking a full-time Graduate Software Engineer role. Passionate about full-stack development, cloud infrastructure, autonomous systems, and writing clean, production-grade code.
+I work across full-stack development, cloud infrastructure, autonomous systems, and production support. Focused on solving real-world problems where reliability, performance, and operational impact matter.
+
+---
+
+### 💼 Professional Experience
+
+**Airport Operations Specialist**  
+*Uber* | **Jun 2022 – Present**  
+- Provided real-time support to 100+ riders and drivers per shift at Melbourne Airport, resolving app issues including payments, login failures, and matching problems.  
+- Monitored and managed real-time bay allocation systems during peak operations to ensure smooth rider flow.  
+- Supported rollout testing of new platform features including Uber Kiosks, Uber Child Seat, and UberMax across ANZ.
+
+**Software Engineer Intern**  
+*YEMECompany Pty Ltd* | **Jul 2024 – Feb 2025**  
+- Diagnosed and resolved live production incidents involving Stripe API failures and webhook synchronisation issues using AWS CloudWatch.  
+- Built RESTful API endpoints and webhook integrations in Node.js/Express with PostgreSQL backend.  
+- Delivered a full React Native mobile application covering authentication, vendor workflows, and loyalty reward systems end-to-end.
 
 ---
 
@@ -31,40 +47,13 @@ React.js • React Native • FastAPI • Node.js/Express • Flask • ROS2 •
 PostgreSQL (Supabase) • MySQL • MongoDB • Firebase
 
 **Cloud & DevOps**  
-AWS (EC2, S3, CloudWatch) • Microsoft Azure • Docker • GitHub Actions (CI/CD) • Vercel • Render • Git
+AWS (EC2, S3, CloudWatch) • Azure • Docker • GitHub Actions (CI/CD) • Vercel • Render • Git
 
 **AI / ML & Tools**  
 CNNs • LSTMs • Sensor Fusion • OCR (Tesseract, EasyOCR) • TensorFlow • OpenCV • Claude API • GitHub Copilot
 
 **Other**  
-RESTful APIs • Stripe • JWT • Jira • ServiceNow • Hardware & AV Troubleshooting • Linux Systems
-
----
-
-### 💼 Professional Experience
-
-**IT Delivery Consultant**  
-*Swinburne University of Technology, Infrastructure Services & Operations* | **Jan 2026 – Present**  
-- Conduct daily readiness checks across teaching spaces and computer labs, verifying power, network, and AV functionality.  
-- Provide first-line IT support to staff and students via in-person, phone, and email channels.  
-- Document recurring incidents and resolutions in the internal knowledge base to reduce repeat tickets.
-
-**Final Year Project Engineer – Autonomous Robotics**  
-*Swinburne University of Technology* | **Feb 2025 – Nov 2025**  
-- Developed autonomous navigation algorithms in Python and C++ using ROS2 Nav2, achieving **95%+ accuracy** on real robot hardware.  
-- Designed sensor fusion pipeline integrating LiDAR, wheel encoders, and camera data with real-time filtering and anomaly detection.  
-- Built dual-engine OCR system (Tesseract + EasyOCR) with confidence scoring and fuzzy matching for warehouse signage recognition.
-
-**Software Engineer Intern**  
-*YEMECompany Pty Ltd* | **Jul 2024 – Feb 2025**  
-- Diagnosed and resolved live production incidents involving Stripe API failures and webhook synchronisation errors using AWS CloudWatch.  
-- Built RESTful API endpoints and webhook integrations in Node.js/Express with PostgreSQL backend.  
-- Shipped a full React Native mobile application covering vendor authentication, flyer customisation, and loyalty reward flows.
-
-**Airport Operations Specialist**  
-*Uber* | **Jun 2022 – Present**  
-- Delivered on-ground and in-app technical support to 100+ riders and drivers daily at Melbourne Airport.  
-- Monitored bay-allocation system and supported rollout of new Uber features across ANZ.
+RESTful APIs • Stripe • JWT • Jira • ServiceNow • Hardware & AV Systems • Linux
 
 ---
 
@@ -76,13 +65,13 @@ Live production system for a cafe featuring QR ordering, real-time tracking, adm
 [Live Site → mohrstreetcafe.com.au](https://mohrstreetcafe.com.au)
 
 **Full-Stack E-Commerce Web Application**  
-Retail platform with product catalogue, inventory management, order tracking, and dual authentication flows.  
+Retail platform with product catalogue, inventory management, order tracking, and authentication flows.  
 **Tech**: Flask, React.js, MySQL, Tailwind CSS  
 [GitHub](https://github.com/Aarush700/awe-online-electronics-store)
 
-**Facial Recognition Attendance System**  
-Secure attendance system using CNN-based facial recognition with anti-spoofing (blink detection). Achieved **95%+** liveness accuracy.  
-**Tech**: Python, Flask, React, OpenCV, TensorFlow  
+**Autonomous Robotics Capstone Project**  
+Autonomous navigation system using ROS2 with sensor fusion, OCR pipeline, and real-time decision-making. Achieved 95%+ navigation accuracy on physical hardware.  
+**Tech**: Python, C++, ROS2, OpenCV, TensorFlow  
 [GitHub](https://github.com/Aarush700/FaceAttend)
 
 **Full-Stack Personal Finance Web App**  
@@ -96,13 +85,12 @@ Real-time analytics dashboards, spend visualisations, and JWT authentication.
 
 **Bachelor of Engineering (Honours) – Software Engineering**  
 *Swinburne University of Technology* | **Feb 2022 – Dec 2025**  
-- GPA: 3.2 / 4.0
-- Coursework: Distributed Systems, Cloud Computing (AWS), Database Management, Computer Networks, Software Architecture, Linux Systems  
-- Awards: International Excellence Scholarship (75%), Industry Experience Certificate, Swinburne Emerging Leader, Sustainability Certificate
+- GPA: 3.2 / 4.0  
+- Coursework: Distributed Systems, Cloud Computing, Database Systems, Computer Networks, Software Architecture, Linux Systems  
+- Awards: International Excellence Scholarship (75%)
 
 ---
 
 <div align="center">
-  <strong>Building reliable software that works in the real world.</strong><br><br>
-  Always learning • Always shipping • Let's connect!
+  <strong>Building reliable systems that work in production.</strong>
 </div>
